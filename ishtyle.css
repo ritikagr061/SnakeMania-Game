@@ -1,0 +1,31 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.body
+{
+    background: url(img/bg.jpg);
+    min-height: 100vh;
+    background-size: 100vw 100vh;
+    background-repeat:no-repeat;
+
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#board
+{
+    background: linear-gradient(rgb(149, 212, 149),rgb(231, 231, 155));
+    height: 90vmin;
+    width: 70vmin;
+    opacity:60%;
+
+    border: 2px solid black;
+
+    display:grid;
+    grid-template-columns: repeat(18,1fr);
+    grid-template-rows: repeat(18,1fr);
+
+}
