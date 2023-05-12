@@ -1,5 +1,8 @@
 # SnakeMania-Game
 
+### Play Now!!
+
+https://funny-macaron-3eb3b7.netlify.app/
 
 Snakemania is a classic arcade-style game where the player controls a snake, which grows longer as it eats food while avoiding obstacles and its own tail. It was popularized by the Nokia mobile phone game "Snake" in the late 1990s and has since been implemented in many different forms.
 
@@ -10,6 +13,4 @@ In terms of game logic, the JavaScript code would need to handle collision detec
 
 ![image](https://github.com/ritikagr061/SnakeMania-Game/assets/54122273/4a400aa6-698e-46cd-bc8a-c5bef0c9ef03)
 
-### Play Now!!
 
-https://funny-macaron-3eb3b7.netlify.app/
